@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my JavaScript skills in order to master React and Node.js
-- 🌱 I’m currently learning JavaScript, React and MongoDb.
+- 🔭 I’m currently working on Microsoft Dynamics 365
+- 🌱 I’m currently learning C#, X++ and SQL Server.
 - 💬 Ask me about Enterprise development, Cyber Security, JavaScript & Web development
 - 📫 How to reach me: 📧Email: mrrtahoo789@gmail.com 
 - 🤙Call me: +92 308 0485923
