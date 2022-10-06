@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Microsoft Dynamics 365
-- 🌱 I’m currently learning C#, X++ and SQL Server.
-- 💬 Ask me about Enterprise development, Cyber Security, JavaScript & Web development
-- 📫 How to reach me: 📧Email: mrrtahoo789@gmail.com 
+- 🌱 I’m currently learning Metaverse developement, Blockchain, JavaScript and TypeScript. 
+- 💬 Ask me about Enterprise development, Cyber Security, JavaScript, Metaverse, Blockchain, Cryptocurrency and Web Development.
+- 📫 How to reach me: 📧Email: tahasiddiqi89@gmail.com 
 - 🤙Call me: +92 308 0485923
 
 
