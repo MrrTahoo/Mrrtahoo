@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Metaverse developement, Blockchain, JavaScript and TypeScript. 
 - 💬 Ask me about Enterprise development, Cyber Security, JavaScript, Metaverse, Blockchain, Cryptocurrency and Web Development.
 - 📫 How to reach me: 📧Email: tahasiddiqi89@gmail.com
-- 🌟 My Portfolio: tahasiddiqi.com
+- 🌟 My Portfolio: https://tahasiddiqi.com/
 - 🤙Call me: +92 308 0485923
 
 
