@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Taha 👋
 
 - 🔭 I’m currently working on Microsoft Dynamics 365
 - 🌱 I’m currently learning Metaverse developement, Blockchain, JavaScript and TypeScript. 
