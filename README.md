@@ -6,6 +6,7 @@
 - 📫 How to reach me: 📧Email: tahasiddiqi89@gmail.com
 - 🌟 My Portfolio: https://tahasiddiqi.com/
 - 🤙Call me: +92 308 0485923
+- ![](https://hit.yhype.me/github/profile?user_id=55384542)
 
 
 <!--
